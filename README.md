@@ -40,6 +40,7 @@ RFM segmentation across 4,285 customers identified 1,369 At Risk customers — t
 | Champion | 388 | £479 | 18 |
 
 ## Repo Structure
+
 sales-analytics-pipeline/
 └── sql/
 ├── revenue_by_country.sql   # Revenue concentration analysis
